@@ -29,13 +29,6 @@ Review the [build differences](https://github.com/lodash/lodash/wiki/build-diffe
 
 ## Installation
 
-Using npm:
-```shell
-$ npm i -g npm
-$ npm i lodash
-```
-Note: add `--save` if you are using npm < 5.0.0
-
 In Node.js:
 ```js
 // Load the full build.
