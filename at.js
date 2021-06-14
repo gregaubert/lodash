@@ -19,5 +19,6 @@ import baseFlatten from './.internal/baseFlatten.js'
 const at = (object, ...paths) => baseAt(object, baseFlatten(paths, 1))
 const test = "a";
 const test2 = "a";
+const test3 = "a";
 
 export default at
