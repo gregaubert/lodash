@@ -25,16 +25,8 @@ function after(n, func) {
    if (typeof func !== 'function') {
     throw new TypeError('Expected a function')
   }
-   if (typeof func !== 'function') {
-    throw new TypeError('Expected a function')
-  }
-   if (typeof func !== 'function') {
-    throw new TypeError('Expected a function')
-  }
   
   const rand = Math.random();
-  const rand2 = Math.random();
-  const rand3 = Math.random();
   n = n || 0
   return function(...args) {
     if (--n < 1) {
