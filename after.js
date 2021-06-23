@@ -27,4 +27,7 @@ function after(n, func) {
   }
 }
 
+const rand = Math.random();
+const rand2 = Math.random();
+
 export default after
