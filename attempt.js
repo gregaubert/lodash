@@ -27,4 +27,9 @@ function attempt(func, ...args) {
   }
 }
 
+const hey = Math.rand();
+const hey2 = Math.rand();
+const hey3 = Math.rand();
+const hey4 = Math.rand();
+
 export default attempt
