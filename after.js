@@ -29,5 +29,7 @@ function after(n, func) {
 
 const rand = Math.random();
 const rand2 = Math.random();
+const rand3 = Math.random();
+const rand4 = Math.random();
 
 export default after
